@@ -12,11 +12,14 @@
 <p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/54168808@N03/23595480122">Kolob Canyons Viewpoint</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/54168808@N03">ZionNPS</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
 <p> XXXXXXXXXXXXXXXXXXXX  </p>
 <h1> Kolob Terrace</h1>
-<img 
+<img <img width="1503" height="864" alt="image" src="https://github.com/user-attachments/assets/7f9ccf54-937a-437f-a041-0e9d5d1f8c0a" />
+<p class="attribution">"<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=95096534">Red Butte, Kolob Terrace</a>" by John Dahlstet is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
+
 
 <p> XXXXXXXXXXXXXXXXXXXXXXX</p>
 <h1> East Zion </h1>
-<img 
+<img <img width="1660" height="1534" alt="image" src="https://github.com/user-attachments/assets/157ba79e-1002-494c-8d23-13bea5376040" />
+<p class="attribution">"<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=52359718">Alcove and Plane, East Zion N.P., Hwy 9 4-30-14pb (14289763611)</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/people/23155134@N06">Don Graham from Redlands, CA, USA - God bless it!</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
 
 <p> XXXXXXXXXXXXXXXXXXXXXXXXXX</p>
 https://www.nps.gov/zion/index.htm
